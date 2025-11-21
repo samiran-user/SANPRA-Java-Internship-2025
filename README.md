@@ -48,7 +48,7 @@ Concepts Used: OOP Principles, Exception Handling, File Handling, Java Collectio
 
 # How to Run the Project
 1. Clone the Repository
-git clone [ https://github.com/samiran-user/SANPRA-Java-Internship-2025]
+git clone [https://github.com/samiran-user/SANPRA-Java-Internship-2025.git]
 2. Open the Project in Any Java IDE
 Ensure your system is configured with JDK.
 Running Each Task from Terminal

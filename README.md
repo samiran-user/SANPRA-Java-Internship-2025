@@ -48,23 +48,22 @@ Concepts Used: OOP Principles, Exception Handling, File Handling, Java Collectio
 
 # How to Run the Project
 1. Clone the Repository
-git clone [https://github.com/samiran-user/SANPRA-Java-Internship-2025.git]
-2. Open the Project in Any Java IDE
-Ensure your system is configured with JDK.
-Running Each Task from Terminal
+ git clone [https://github.com/samiran-user/SANPRA-Java-Internship-2025.git]
+2. Open the Project in Any Java IDE (Ensure your system is configured with JDK).
+3. Running Each Task from Terminal
 
- A. Run Guessing Game
-    cd Guessing Game/src
-    javac GuessingGame.java
-    java GuessingGame
- B. Run Simple ATM Interface
-    cd Simple ATM Interface/src
-    javac SimpleATMInterface.java
-    java SimpleATMInterface
- C.Run StudentGradeTracker
-    cd StudentGradeTracker/src
-    javac StudentGradeTracker.java
-    java StudentGradeTracker
+       A. Run Guessing Game
+            cd Guessing Game/src
+            javac GuessingGame.java
+            java GuessingGame
+       B. Run Simple ATM Interface
+            cd Simple ATM Interface/src
+            javac SimpleATMInterface.java
+            java SimpleATMInterface
+       C.Run StudentGradeTracker
+            cd StudentGradeTracker/src
+            javac StudentGradeTracker.java
+            java StudentGradeTracker
 
 # Project Structure
       SANPRA-Java-Internship-2025/

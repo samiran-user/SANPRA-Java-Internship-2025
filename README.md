@@ -60,7 +60,7 @@ Concepts Used: OOP Principles, Exception Handling, File Handling, Java Collectio
             cd Simple ATM Interface/src
             javac SimpleATMInterface.java
             java SimpleATMInterface
-       C.Run StudentGradeTracker
+       C. Run StudentGradeTracker
             cd StudentGradeTracker/src
             javac StudentGradeTracker.java
             java StudentGradeTracker

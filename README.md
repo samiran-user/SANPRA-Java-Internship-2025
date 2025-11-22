@@ -4,7 +4,7 @@
 
 # Intern Details
 
-Name: Samiram Hazra ||
+Name: Samiram Chanak ||
 Internship: SANPRA Java Internship 2025 ||
 Batch: 2025 ||
 Language Used: Java ||
